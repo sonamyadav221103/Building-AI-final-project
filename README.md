@@ -1,10 +1,6 @@
 # Smart Traffic Analyzer  
 Building AI course project  
-
-## Summary  
-A machine learning-based system that analyzes traffic camera feeds to predict congestion and suggest optimal routes in real-time.  
-
-
+ 
 ## Summary
 
 AutoLog is an AI-powered system that automates vehicle identification and parking logging. It captures license plates, calculates fees, and stores data efficiently, reducing human effort and errors in parking management.
