@@ -1,7 +1,9 @@
-# AutoLog: Smart Vehicle Parking System
+# Smart Traffic Analyzer  
+Building AI course project  
 
-Final project for the Building AI course  
-Building AI course project
+## Summary  
+A machine learning-based system that analyzes traffic camera feeds to predict congestion and suggest optimal routes in real-time.  
+
 
 ## Summary
 
