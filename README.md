@@ -63,3 +63,27 @@ Data is collected through live camera feeds. OCR and image processing models are
 * Project template provided by Building AI course (Reaktor & University of Helsinki)  
 * [OpenCV](https://opencv.org) and [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)  
 * Parking camera image by Umberto Salvagnin / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+
+
+# Building-AI-final-project
+
+Building AI course project
+
+## Summary
+This project explores the use of artificial intelligence techniques to analyze data, recognize patterns, and make predictions efficiently. It demonstrates model development, evaluation, and visualization to better understand AI workflows in real-world applications.
+
+## Project Images
+Here are two screenshots from the project:
+
+![Project Screenshot 1](/Screenshot%20from%202025-10-07%2016-02-04.png)
+![Project Screenshot 2](/Screenshot%20from%202025-10-07%2016-02-13.png)
+
+## How to Use
+1. Clone the repository to your local system.  
+2. Open the notebook or script files.  
+3. Run the code to reproduce the results.  
+
+## Credits
+All images and project work are created by **Ashutosh Jarag**.  
+This project is part of the **Building AI course project**.
+
